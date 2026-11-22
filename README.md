@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Nav 👋
 
-<!--
-**NavSrijan/NavSrijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software across backend systems, desktop tools, and systems experiments—from Discord games and Linux utilities to a 16-bit computer.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Pippo](https://github.com/NavSrijan/Pippo) — a Discord bot for movie trivia and party games, with an Indian touch.
+- [Needle](https://github.com/NavSrijan/needle) — an animated vinyl wallpaper for Linux that follows your music player.
+- [Bulk Certificate Generator](https://github.com/NavSrijan/bulk-certificate-generator) — a FastAPI service for generating and retrieving batches of PDF certificates.
+- [Sanganak](https://github.com/NavSrijan/Sanganak) — a 16-bit computer in Logisim-evolution, with a Python assembler.
+
+More about me: [navsrijan.github.io](https://navsrijan.github.io)
+
+> I’m still lazy enough to spend 12 hours automating a 2-minute task.
